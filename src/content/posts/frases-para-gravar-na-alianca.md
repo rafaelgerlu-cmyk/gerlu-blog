@@ -147,7 +147,7 @@ A possibilidade de gravar símbolos e outros detalhes depende do modelo e da té
 
 A **gravação interna** é a mais comum. Ela fica discreta, é um detalhe só do casal e está protegida do atrito do dia a dia, por isso dura muito mais.
 
-A **gravação externa** fica à mostra e funciona como um elemento de design. Por ficar exposta, sofre mais desgaste com o uso e combina melhor com palavras muito curtas, iniciais ou símbolos. Nem todo modelo permite gravação externa.
+A **gravação externa** fica à mostra e funciona como um elemento de design. Por ficar exposta, sofre mais desgaste com o uso e combina melhor com palavras muito curtas, iniciais ou símbolos. Nem todo modelo permite gravação externa, por isso vale confirmar com a joalheria.
 
 ## Dicas para escolher a gravação da aliança
 
@@ -179,7 +179,7 @@ Pela tradição, cada aliança leva o nome do parceiro: a aliança da noiva tem 
 
 ### Dá para gravar aliança de prata?
 
-Sim. A gravação pode ser feita tanto em alianças de ouro quanto em alianças de prata e de prata com ouro. O espaço disponível depende do modelo e da largura.
+Em geral, sim. A gravação costuma ser possível em alianças de ouro, de prata e de prata com ouro, mas depende do modelo, da largura e do acabamento. Confirme com a joalheria na hora de escolher.
 
 ### A gravação da aliança sai com o tempo?
 
@@ -187,7 +187,7 @@ A gravação interna fica protegida do atrito e costuma durar por muitos anos. A
 
 ### Posso gravar a aliança de noivado e mudar no casamento?
 
-Alguns casais gravam a data do noivado e mantêm a gravação depois do casamento. Outros preferem acrescentar a data do casamento. Se essa é a ideia, avise a joalheria na primeira gravação para deixar espaço para a segunda data.
+Alguns casais gravam a data do noivado e mantêm a gravação depois do casamento. Outros preferem acrescentar a data do casamento. Se essa é a ideia, pergunte à joalheria já na primeira gravação se dá para deixar espaço para a segunda data no modelo escolhido.
 
 ### Qual a melhor frase para gravar na aliança?
 
