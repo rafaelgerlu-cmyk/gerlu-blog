@@ -10,7 +10,7 @@ image: "/images/trocar-ouro-velho/capa-trocar-ouro-velho-por-alianca.jpg"
 imageAlt: "Ilustração de joias antigas de ouro se transformando em um par de alianças novas"
 storePath: "/casamento"
 storeCta: "Ver alianças de casamento"
-draft: true
+draft: false
 ---
 
 Sim, é possível trocar ouro velho por uma aliança nova. Na troca, a joalheria **avalia as suas joias de ouro**, identifica o teor, pesa as peças e calcula o valor pela cotação do dia. Esse valor é **abatido do preço da aliança nova**, e você paga apenas a diferença.
@@ -20,7 +20,7 @@ Correntes arrebentadas, brincos sem par, anéis que não servem mais e alianças
 ## Como funciona a troca de ouro usado por aliança
 
 1. **Separe as joias.** Junte as peças de ouro que você não usa mais, inclusive as quebradas.
-2. **Leve as peças à joalheria.** A avaliação é presencial, porque as joias precisam ser testadas e pesadas. Leve um documento com foto.
+2. **Leve as peças à joalheria.** A avaliação é presencial, porque as joias precisam ser testadas e pesadas. Na Gerlu, ela é feita na hora. Leve um documento com foto.
 3. **Identificação do teor.** A joalheria verifica a marcação e testa o metal para confirmar se é ouro e qual o teor: 18k, 14k ou outro.
 4. **Retirada de itens que não são ouro.** Pedras, fechos de outro metal e partes não metálicas não entram no peso.
 5. **Pesagem.** As peças são pesadas em balança de precisão, separadas por teor.
@@ -136,7 +136,7 @@ Em geral, não é necessário ter a nota fiscal das joias. O que costuma ser exi
 
 ### O valor do ouro usado muda de um dia para o outro?
 
-Sim. O valor acompanha a cotação do ouro, que varia conforme o mercado. Por isso, a avaliação vale para o dia em que é feita, ou pelo prazo informado pela joalheria.
+Sim. O valor acompanha a cotação do ouro, que varia conforme o mercado. Por isso, a avaliação vale para o dia em que é feita. Na Gerlu, a avaliação sai na hora, com a cotação do dia.
 
 ### Posso trocar ouro 18k por uma aliança de ouro 14k, ou o contrário?
 
@@ -152,7 +152,7 @@ Sim. O ouro da peça é avaliado normalmente, e as pedras não entram no peso. P
 
 ## Troque seu ouro usado por alianças na Gerlu Joalheria
 
-Na Gerlu, em Betim, você traz as joias de ouro que não usa mais, acompanha a avaliação e usa o valor na compra das alianças do casal. São 35 anos de atendimento na região, com avaliação transparente e explicada peça por peça.
+Na Gerlu, em Betim, a avaliação é feita **na hora**: você traz as joias de ouro que não usa mais, acompanha o **teste do teor** e a **pesagem**, e o valor é calculado pela **cotação do ouro do dia**. Esse valor é abatido na compra das alianças do casal. São 35 anos de atendimento na região, com avaliação transparente e explicada peça por peça.
 
 **Endereço:** Rua Santa Cruz, 402, sala 909, Centro, Betim/MG
 
