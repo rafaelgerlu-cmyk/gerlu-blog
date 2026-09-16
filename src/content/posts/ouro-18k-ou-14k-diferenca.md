@@ -15,10 +15,10 @@ A diferença entre ouro 18k e 14k está na **quantidade de ouro puro** em cada p
 
 Essa diferença de composição muda quatro coisas na sua aliança: a **cor**, a **resistência a riscos**, o **preço** e o **valor que o ouro mantém** ao longo dos anos. De forma resumida:
 
-- **Ouro 18k:** cor amarela mais intensa, melhor para pele sensível e maior valor de revenda.
-- **Ouro 14k:** mais econômico e um pouco mais resistente a riscos e amassados.
+- **Ouro 14k:** melhor custo-benefício, mais resistente a riscos e amassados, e permite uma aliança mais larga pelo mesmo investimento.
+- **Ouro 18k:** cor amarela mais intensa, mais indicado para pele sensível e maior valor de revenda.
 
-A seguir, cada ponto em detalhe, para você escolher com segurança.
+Para a maioria dos casais, o **14k é a escolha mais equilibrada**: é ouro de verdade, dura a vida toda e deixa sobrar orçamento para um modelo mais encorpado. A seguir, cada ponto em detalhe, para você escolher com segurança.
 
 ## O que significa ouro 18k e 14k
 
@@ -38,15 +38,16 @@ Se a peça não tem marcação, peça o certificado de garantia à joalheria ant
 
 ## Tabela comparativa: ouro 18k x ouro 14k
 
-| Característica | Ouro 18k | Ouro 14k |
+| Característica | Ouro 14k | Ouro 18k |
 |---|---|---|
-| Ouro puro | 75% | 58,5% |
-| Marcação | 750 | 585 |
-| Cor (amarelo) | Mais intensa e quente | Mais clara e suave |
-| Resistência a riscos | Boa | Um pouco maior |
-| Pele sensível | Mais indicado | Maior chance de reação |
-| Preço | Maior | Menor |
-| Valor na troca ou revenda | Maior | Menor |
+| Ouro puro | 58,5% | 75% |
+| Marcação | 585 | 750 |
+| Preço | Menor | Maior |
+| Largura pelo mesmo investimento | Aliança mais larga | Aliança mais fina |
+| Resistência a riscos | Maior | Boa |
+| Cor (amarelo) | Mais clara e suave | Mais intensa e quente |
+| Pele sensível | Indicado para quem não tem alergia a metais | Mais indicado para quem tem alergia |
+| Valor na troca ou revenda | Menor | Maior |
 
 ## Diferença de cor entre ouro 18k e 14k
 
@@ -60,7 +61,7 @@ O **ouro 14k é um pouco mais duro**, porque tem mais metais de liga. Na prátic
 
 Isso não significa que o 18k seja frágil. Uma aliança 18k bem feita dura a vida inteira. Os riscos superficiais que aparecem com o uso acontecem em qualquer teor de ouro e são removidos com um **polimento** na joalheria.
 
-A espessura e a largura da aliança pesam tanto na durabilidade quanto o teor. Um modelo muito fino em 14k pode deformar mais fácil que um modelo robusto em 18k.
+A espessura e a largura da aliança pesam tanto na durabilidade quanto o teor. Aqui o 14k tem uma vantagem dupla: além de mais duro, ele custa menos por grama, o que permite escolher um modelo mais largo e robusto sem estourar o orçamento.
 
 ## Ouro 14k dá alergia?
 
@@ -94,7 +95,7 @@ Por outro lado, o trabalho de fabricação e acabamento é praticamente o mesmo 
 
 O valor do ouro usado é calculado pela quantidade de ouro puro na peça. Por isso, uma aliança 18k **conserva mais valor** que uma 14k de mesmo peso.
 
-Se você pensa em trocar as alianças no futuro, por exemplo numa renovação de votos, ou quer uma joia que mantenha valor como patrimônio, o 18k leva vantagem.
+Se você pensa em trocar as alianças no futuro, por exemplo numa renovação de votos, ou quer uma joia que mantenha valor como patrimônio, o 18k leva vantagem. Se a ideia é usar a aliança a vida toda, esse ponto pesa pouco, e a economia do 14k fica no bolso já na compra.
 
 ## E o ouro branco: 18k ou 14k?
 
@@ -104,19 +105,19 @@ Em ouro branco, a diferença de cor entre 18k e 14k fica menos visível por caus
 
 ## Afinal, ouro 18k ou 14k: qual escolher?
 
+### Escolha ouro 14k se:
+
+- Vocês querem o melhor custo-benefício em aliança de ouro maciço
+- Preferem uma aliança mais larga e encorpada pelo mesmo investimento
+- Quem vai usar trabalha com as mãos e quer mais resistência a riscos
+- Vocês gostam de um dourado mais claro e discreto
+- Ninguém do casal tem sensibilidade a metais
+
 ### Escolha ouro 18k se:
 
 - Você quer o amarelo dourado mais intenso e tradicional
 - Alguém do casal tem pele sensível ou histórico de alergia a metais
 - Valor de revenda e patrimônio são importantes para vocês
-- A aliança é para usar a vida toda, sem pensar em troca
-
-### Escolha ouro 14k se:
-
-- O orçamento é prioridade e vocês querem uma aliança mais larga pelo mesmo investimento
-- Vocês preferem um tom de dourado mais claro e discreto
-- Quem vai usar trabalha com as mãos e quer mais resistência a riscos
-- Ninguém do casal tem sensibilidade a metais
 
 Nos dois casos, vocês terão uma aliança de ouro verdadeiro, que não enferruja e dura por gerações. Veja os modelos de [alianças de casamento em ouro](https://www.gerlujoias.com.br/casamento?utm_source=blog&utm_medium=referral&utm_campaign=blog-post&utm_content=ouro-18k-ou-14k-diferenca).
 
