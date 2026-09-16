@@ -6,6 +6,8 @@ keyword: "ouro 18k ou 14k"
 keywordsSecundarias: ["aliança ouro 18k", "aliança ouro 14k", "diferença entre ouro 18k e 14k", "ouro 14k é ouro de verdade"]
 category: aliancas
 pubDate: 2026-09-16
+image: "/images/ouro-18k-ou-14k/capa-aliancas-ouro-18k-ou-14k.jpg"
+imageAlt: "Par de alianças de casamento em ouro amarelo polido sobre mármore branco"
 storePath: "/casamento"
 storeCta: "Ver alianças de casamento em ouro"
 draft: false
@@ -36,6 +38,12 @@ Toda aliança de ouro de procedência traz uma marcação gravada na parte inter
 
 Se a peça não tem marcação, peça o certificado de garantia à joalheria antes de comprar.
 
+<figure>
+  <img src="/images/ouro-18k-ou-14k/marcacao-teor-interna.webp" alt="Par de alianças de ouro abauladas com a marcação do teor gravada na parte interna" width="900" height="600" loading="lazy" decoding="async" />
+  <figcaption>A marcação do teor fica gravada na parte interna da aliança. Na foto, o modelo <a href="https://www.gerlujoias.com.br/par-de-aliancas-paris?utm_source=blog&amp;utm_medium=referral&amp;utm_campaign=blog-post&amp;utm_content=ouro-18k-ou-14k-diferenca">Paris</a>.</figcaption>
+</figure>
+
+
 ## Tabela comparativa: ouro 18k x ouro 14k
 
 | Característica | Ouro 14k | Ouro 18k |
@@ -63,6 +71,12 @@ Isso não significa que o 18k seja frágil. Uma aliança 18k bem feita dura a vi
 
 A espessura e a largura da aliança pesam tanto na durabilidade quanto o teor. Aqui o 14k tem uma vantagem dupla: além de mais duro, ele custa menos por grama, o que permite escolher um modelo mais largo e robusto sem estourar o orçamento.
 
+<figure>
+  <img src="/images/ouro-18k-ou-14k/aliancas-paris-5mm.webp" alt="Par de alianças de ouro abauladas de 5 mm, modelo Paris, sobre mármore" width="900" height="900" loading="lazy" decoding="async" />
+  <figcaption>Modelo <a href="https://www.gerlujoias.com.br/par-de-aliancas-paris?utm_source=blog&amp;utm_medium=referral&amp;utm_campaign=blog-post&amp;utm_content=ouro-18k-ou-14k-diferenca">Paris</a>, de 5 mm: largura e espessura contam tanto quanto o teor na durabilidade.</figcaption>
+</figure>
+
+
 ## Ouro 14k dá alergia?
 
 O ouro em si raramente causa alergia. Quando há reação, ela costuma vir dos **metais da liga**. Como o 14k tem mais liga que o 18k, a chance de irritação é maior em pessoas com pele sensível.
@@ -79,6 +93,12 @@ A aliança 14k é mais barata que a 18k, mas não existe um desconto fixo. A dif
 - **Teor do ouro:** 18k tem mais ouro puro por grama do que 14k.
 - **Cotação do ouro:** o valor do grama varia conforme o mercado, por isso o preço muda com o tempo.
 - **Acabamento e detalhes:** friso, acabamento fosco ou diamantado, pedras e gravação acrescentam trabalho.
+
+<figure>
+  <img src="/images/ouro-18k-ou-14k/aliancas-acabamento-diamantado.webp" alt="Par de alianças de ouro com acabamento texturizado e nome gravado na parte interna" width="900" height="600" loading="lazy" decoding="async" />
+  <figcaption>Acabamento texturizado e gravação interna: detalhes que somam trabalho ao preço, no 14k ou no 18k.</figcaption>
+</figure>
+
 
 ### Por que o ouro 14k sai mais barato
 
@@ -112,6 +132,12 @@ Em ouro branco, a diferença de cor entre 18k e 14k fica menos visível por caus
 - Quem vai usar trabalha com as mãos e quer mais resistência a riscos
 - Vocês gostam de um dourado mais claro e discreto
 - Ninguém do casal tem sensibilidade a metais
+
+<figure>
+  <img src="/images/ouro-18k-ou-14k/alianca-barcelona-no-dedo.webp" alt="Aliança de ouro de 5 mm com formato reto usada na mão masculina" width="900" height="900" loading="lazy" decoding="async" />
+  <figcaption>Modelo <a href="https://www.gerlujoias.com.br/par-de-aliancas-barcelona?utm_source=blog&amp;utm_medium=referral&amp;utm_campaign=blog-post&amp;utm_content=ouro-18k-ou-14k-diferenca">Barcelona</a>, de 5 mm, disponível em ouro 14k e 18k.</figcaption>
+</figure>
+
 
 ### Escolha ouro 18k se:
 
