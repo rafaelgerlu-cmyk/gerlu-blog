@@ -1,0 +1,26 @@
+---
+import Base from '../layouts/Base.astro';
+import PostCard from '../components/PostCard.astro';
+import { SITE, STORE } from '../consts';
+import { getPosts } from '../lib/posts';
+
+const posts = await getPosts();
+const jsonLd = [
+  { '@context': 'https://schema.org', '@type': 'Blog', name: SITE.name, url: Astro.site?.href, inLanguage: SITE.lang,
+    publisher: { '@type': 'Organization', name: STORE.name, url: STORE.url } },
+];
+---
+<Base title="Blog Gerlu Joalheria | Guias de alianças e joias em ouro" description={SITE.description} jsonLd={jsonLd}>
+  <section class="hero">
+    <div class="wrap">
+      <p class="eyebrow">Gerlu Joalheria · Betim/MG</p>
+      <h1>Tudo o que você precisa saber antes de escolher sua aliança</h1>
+      <p class="lead">{SITE.description}</p>
+    </div>
+  </section>
+  <section class="wrap">
+    {posts.length === 0
+      ? <p class="muted empty">Os primeiros artigos estão chegando.</p>
+      : <div class="grid">{posts.map((p) => <PostCard post={p} />)}</div>}
+  </section>
+</Base>

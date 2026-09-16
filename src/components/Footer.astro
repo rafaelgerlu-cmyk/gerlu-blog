@@ -1,0 +1,17 @@
+---
+import { STORE, storeLink } from '../consts';
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="wrap foot">
+    <div>
+      <p class="brand-mark">Gerlu Joalheria</p>
+      <p class="muted">Alianças em ouro 18k, 14k e prata, anéis de noivado e formatura. Há 35 anos em {STORE.city}/{STORE.state}.</p>
+    </div>
+    <nav aria-label="Rodapé">
+      <a href={storeLink('', 'blog-footer')}>Loja online</a>
+      <a href="/rss.xml">RSS</a>
+    </nav>
+  </div>
+  <p class="wrap muted small">© {year} {STORE.name}</p>
+</footer>

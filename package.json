@@ -1,0 +1,22 @@
+{
+  "name": "gerlu-blog",
+  "version": "1.0.0",
+  "description": "Blog da Gerlu Joalheria (Astro + Vercel)",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "novo-post": "node scripts/novo-post.mjs"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@astrojs/rss": "^4.0.19",
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^7.3.2"
+  },
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  }
+}

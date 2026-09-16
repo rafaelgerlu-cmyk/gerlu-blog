@@ -1,0 +1,97 @@
+---
+import { render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import StoreCTA from '../components/StoreCTA.astro';
+import PostCard from '../components/PostCard.astro';
+import { SITE, STORE } from '../consts';
+import { getPosts, CATEGORIES, fmtDate, readingTime, type Post } from '../lib/posts';
+
+// URL do post = nome do arquivo .md (ex.: aliancas-ouro-18k-ou-14k.md → /aliancas-ouro-18k-ou-14k/)
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: { post, related: posts.filter((p) => p.id !== post.id && p.data.category === post.data.category).slice(0, 2) },
+  }));
+}
+
+interface Props { post: Post; related: Post[] }
+const { post, related } = Astro.props;
+const { data } = post;
+const { Content, headings } = await render(post);
+const url = new URL(`/${post.id}/`, Astro.site).href;
+const toc = headings.filter((h) => h.depth === 2);
+
+const jsonLd: object[] = [
+  {
+    '@context': 'https://schema.org', '@type': 'BlogPosting',
+    headline: data.title, description: data.description, keywords: [data.keyword, ...data.keywordsSecundarias].join(', '),
+    datePublished: data.pubDate.toISOString(), dateModified: (data.updatedDate ?? data.pubDate).toISOString(),
+    mainEntityOfPage: url, inLanguage: SITE.lang,
+    image: new URL(data.image ?? SITE.defaultOgImage, Astro.site).href,
+    author: { '@type': 'Organization', name: data.author },
+    publisher: { '@type': 'Organization', name: STORE.name, url: STORE.url },
+  },
+  {
+    '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Blog', item: Astro.site?.href },
+      { '@type': 'ListItem', position: 2, name: data.title, item: url },
+    ],
+  },
+];
+if (data.faq.length) {
+  jsonLd.push({
+    '@context': 'https://schema.org', '@type': 'FAQPage',
+    mainEntity: data.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  });
+}
+---
+<Base
+  title={data.seoTitle}
+  description={data.description}
+  image={data.image}
+  type="article"
+  publishedTime={data.pubDate}
+  modifiedTime={data.updatedDate}
+  noindex={data.draft}
+  jsonLd={jsonLd}
+>
+  <article class="post wrap narrow">
+    <nav class="crumbs small" aria-label="Trilha"><a href="/">Blog</a> › {CATEGORIES[data.category]}</nav>
+    {data.draft && <p class="draft-flag">RASCUNHO — não aparece no site publicado</p>}
+    <h1>{data.title}</h1>
+    <p class="lead">{data.description}</p>
+    <p class="small muted">
+      {data.author} · <time datetime={data.pubDate.toISOString()}>{fmtDate(data.pubDate)}</time>
+      {data.updatedDate && <> · atualizado em <time datetime={data.updatedDate.toISOString()}>{fmtDate(data.updatedDate)}</time></>}
+      · {readingTime(post.body)} min de leitura
+    </p>
+    {data.image && <img class="cover" src={data.image} alt={data.imageAlt} width="1200" height="630" />}
+
+    {toc.length > 2 && (
+      <nav class="toc" aria-label="Neste artigo">
+        <p class="eyebrow">Neste artigo</p>
+        <ol>{toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
+      </nav>
+    )}
+
+    <div class="prose"><Content /></div>
+
+    {data.faq.length > 0 && (
+      <section class="faq">
+        <h2>Perguntas frequentes</h2>
+        {data.faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}
+      </section>
+    )}
+
+    <StoreCTA path={data.storePath} label={data.storeCta} slug={post.id} />
+
+    {related.length > 0 && (
+      <section class="related">
+        <h2>Leia também</h2>
+        <div class="grid">{related.map((p) => <PostCard post={p} />)}</div>
+      </section>
+    )}
+  </article>
+</Base>

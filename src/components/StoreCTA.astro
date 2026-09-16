@@ -1,0 +1,11 @@
+---
+import { storeLink } from '../consts';
+interface Props { path?: string; label?: string; slug: string }
+const { path = '', label = 'Conheça nossas alianças', slug } = Astro.props;
+---
+<aside class="cta">
+  <p class="eyebrow">Gerlu Joalheria</p>
+  <p class="cta-title">Alianças feitas para durar a vida inteira</p>
+  <p class="muted">Alianças em ouro 18k, 14k e prata. Há 35 anos em Betim/MG.</p>
+  <a class="btn" href={storeLink(path, 'blog-post', slug)}>{label} →</a>
+</aside>

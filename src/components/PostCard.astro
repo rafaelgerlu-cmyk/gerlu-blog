@@ -1,0 +1,15 @@
+---
+import { CATEGORIES, fmtDate, type Post } from '../lib/posts';
+interface Props { post: Post }
+const { post } = Astro.props;
+const { data } = post;
+---
+<article class="card">
+  {data.image && <img src={data.image} alt={data.imageAlt} width="1200" height="630" loading="lazy" />}
+  <div class="card-body">
+    <p class="eyebrow">{CATEGORIES[data.category]}{data.draft && ' · RASCUNHO'}</p>
+    <h2><a href={`/${post.id}/`}>{data.title}</a></h2>
+    <p class="muted">{data.description}</p>
+    <p class="small muted"><time datetime={data.pubDate.toISOString()}>{fmtDate(data.pubDate)}</time></p>
+  </div>
+</article>

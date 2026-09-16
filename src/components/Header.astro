@@ -1,0 +1,14 @@
+---
+import { storeLink } from '../consts';
+---
+<header class="site-header">
+  <div class="wrap bar">
+    <a href="/" class="brand" aria-label="Blog Gerlu — início">
+      <span class="brand-mark">Gerlu</span><span class="brand-sub">Blog</span>
+    </a>
+    <nav aria-label="Principal">
+      <a href="/">Artigos</a>
+      <a class="btn btn-sm" href={storeLink('', 'blog-header')}>Visitar a loja</a>
+    </nav>
+  </div>
+</header>
