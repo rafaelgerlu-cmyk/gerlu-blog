@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" font-family="Inter, system-ui, sans-serif">
+  <title>Como medir a circunferência do dedo com uma tira de papel</title>
+  <rect width="900" height="460" rx="18" fill="#FBF7EF"/>
+  <!-- passo 1: dedo com tira -->
+  <circle cx="60" cy="52" r="18" fill="#2A2420"/>
+  <text x="60" y="58" font-size="17" font-weight="700" fill="#FBF7EF" text-anchor="middle">1</text>
+  <text x="90" y="58" font-size="18" font-weight="700" fill="#2A2420">Enrole na base do dedo</text>
+  <path d="M150 430 V170 Q150 110 205 110 Q260 110 260 170 V430 Z" fill="#E8C4A6" stroke="#C9A084" stroke-width="3"/>
+  <path d="M160 222 Q205 214 250 222" fill="none" stroke="#C9A084" stroke-width="2"/>
+  <path d="M160 290 Q205 282 250 290" fill="none" stroke="#C9A084" stroke-width="2"/>
+  <!-- tira de papel -->
+  <path d="M146 350 Q205 364 264 350 V380 Q205 394 146 380 Z" fill="#FFFFFF" stroke="#A8842C" stroke-width="2.5"/>
+  <path d="M264 352 L312 340 L312 370 L264 378" fill="#FFFFFF" stroke="#A8842C" stroke-width="2.5" stroke-linejoin="round"/>
+  <line x1="264" y1="346" x2="264" y2="384" stroke="#B4432F" stroke-width="4"/>
+  <text x="326" y="350" font-size="15" fill="#B4432F" font-weight="700">marque aqui</text>
+  <text x="326" y="370" font-size="14" fill="#6E6358">onde o papel</text>
+  <text x="326" y="388" font-size="14" fill="#6E6358">se encontra</text>
+  <!-- junta -->
+  <line x1="252" y1="289" x2="318" y2="262" stroke="#6E6358" stroke-width="1.5"/>
+  <text x="324" y="258" font-size="14" fill="#6E6358">a aliança precisa</text>
+  <text x="324" y="276" font-size="14" fill="#6E6358">passar pela junta</text>
+  <!-- divisor -->
+  <line x1="470" y1="40" x2="470" y2="420" stroke="#E7DCC6" stroke-width="2"/>
+  <!-- passo 2: régua (5,6 px por mm, zero em x=515) -->
+  <circle cx="510" cy="52" r="18" fill="#2A2420"/>
+  <text x="510" y="58" font-size="17" font-weight="700" fill="#FBF7EF" text-anchor="middle">2</text>
+  <text x="540" y="58" font-size="18" font-weight="700" fill="#2A2420">Abra e meça na régua</text>
+  <rect x="515" y="152" width="313.6" height="34" fill="#FFFFFF" stroke="#A8842C" stroke-width="2.5"/>
+  <line x1="828.6" y1="146" x2="828.6" y2="192" stroke="#B4432F" stroke-width="4"/>
+  <text x="828.6" y="136" font-size="15" font-weight="700" fill="#B4432F" text-anchor="middle">56 mm</text>
+  <rect x="505" y="188" width="366" height="70" rx="6" fill="#FFFFFF" stroke="#CDBE9F" stroke-width="2"/>
+  <g stroke="#6E6358" stroke-width="2">
+    <line x1="515" y1="188" x2="515" y2="220"/><line x1="543" y1="188" x2="543" y2="204"/>
+    <line x1="571" y1="188" x2="571" y2="220"/><line x1="599" y1="188" x2="599" y2="204"/>
+    <line x1="627" y1="188" x2="627" y2="220"/><line x1="655" y1="188" x2="655" y2="204"/>
+    <line x1="683" y1="188" x2="683" y2="220"/><line x1="711" y1="188" x2="711" y2="204"/>
+    <line x1="739" y1="188" x2="739" y2="220"/><line x1="767" y1="188" x2="767" y2="204"/>
+    <line x1="795" y1="188" x2="795" y2="220"/><line x1="823" y1="188" x2="823" y2="204"/>
+    <line x1="851" y1="188" x2="851" y2="220"/>
+  </g>
+  <g font-size="13" fill="#6E6358" text-anchor="middle"><text x="515" y="242">0</text><text x="571" y="242">1</text><text x="627" y="242">2</text><text x="683" y="242">3</text><text x="739" y="242">4</text><text x="795" y="242">5</text><text x="851" y="242">6 cm</text></g>
+  <rect x="515" y="296" width="336" height="96" rx="12" fill="#F1E6CC"/>
+  <text x="683" y="332" font-size="16" fill="#7E6220" text-anchor="middle">medida em mm − 40 = aro</text>
+  <text x="683" y="368" font-size="24" font-weight="700" fill="#2A2420" text-anchor="middle">56 − 40 = aro 16</text>
+</svg>

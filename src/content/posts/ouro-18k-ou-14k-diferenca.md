@@ -171,7 +171,7 @@ Pode, mas não é recomendado. A cor das duas fica diferente, principalmente no 
 
 ### Como saber o tamanho certo da aliança antes de comprar?
 
-Você pode descobrir a medida do dedo em casa, com uma régua ou um anel que já use. Veja o passo a passo no nosso [guia para descobrir a medida do dedo](https://www.gerlujoias.com.br/como-descobrir-a-medida-do-dedo?utm_source=blog&utm_medium=referral&utm_campaign=blog-post&utm_content=ouro-18k-ou-14k-diferenca).
+Você pode descobrir a medida do dedo em casa, com uma régua ou um anel que já use. Veja o passo a passo no nosso [guia de como saber o tamanho da aliança](/como-saber-tamanho-alianca/).
 
 ## Tire suas dúvidas com a Gerlu Joalheria
 
