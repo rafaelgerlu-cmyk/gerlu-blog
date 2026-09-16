@@ -1,12 +1,14 @@
 :root {
-  --cream: #FBF7EF;
-  --paper: #FFFFFF;
-  --ink: #2A2420;
+  /* Paleta alinhada com gerlujoias.com.br */
+  --cream: #FAF6ED;
+  --paper: #FFFDF9;
+  --ink: #3D2E1F;
   --muted: #6E6358;
-  --gold: #A8842C;
-  --gold-dark: #7E6220;
-  --gold-soft: #F1E6CC;
-  --line: #E7DCC6;
+  --accent: #917270;       /* rosé da loja: botões, destaques */
+  --accent-dark: #7C615F;  /* hover e textos pequenos (contraste legível) */
+  --accent-soft: #F7EFEA;
+  --line: #EDE1CF;
+  --shadow: 61, 46, 31;
   --serif: 'Fraunces', Georgia, serif;
   --sans: 'Inter', system-ui, sans-serif;
   color-scheme: light;
@@ -15,7 +17,7 @@
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--cream); color: var(--ink); font: 17px/1.7 var(--sans); }
 img { max-width: 100%; height: auto; display: block; }
-a { color: var(--gold-dark); }
+a { color: var(--accent-dark); }
 h1, h2, h3 { font-family: var(--serif); font-weight: 600; line-height: 1.2; letter-spacing: -0.01em; }
 h1 { font-size: clamp(2rem, 5vw, 3rem); margin: .3em 0; }
 h2 { font-size: 1.6rem; margin-top: 2.2em; }
@@ -26,32 +28,42 @@ h3 { font-size: 1.25rem; margin-top: 1.8em; }
 .muted { color: var(--muted); }
 .small { font-size: .875rem; }
 .lead { font-size: 1.15rem; color: var(--muted); }
-.eyebrow { font-size: .75rem; letter-spacing: .14em; text-transform: uppercase; color: var(--gold); font-weight: 600; margin: 0; }
+.eyebrow { font-size: .75rem; letter-spacing: .14em; text-transform: uppercase; color: var(--accent-dark); font-weight: 600; margin: 0; }
 .skip { position: absolute; left: -999px; }
 .skip:focus { left: 16px; top: 8px; background: var(--paper); padding: 8px; z-index: 10; }
 
-.btn { display: inline-block; background: var(--gold); color: #fff; text-decoration: none; padding: .7em 1.3em; border-radius: 999px; font-weight: 600; }
-.btn:hover { background: var(--gold-dark); }
+.btn { display: inline-block; transition: background-color .2s ease; background: var(--accent); color: #fff; text-decoration: none; padding: .7em 1.3em; border-radius: 999px; font-weight: 600; }
+.btn:hover { background: var(--accent-dark); }
 .btn-sm { padding: .4em 1em; font-size: .875rem; }
 
-.site-header { position: sticky; top: 0; z-index: 5; background: rgba(251,247,239,.92); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+.site-header { position: sticky; top: 0; z-index: 5; background: rgba(250,246,237,.92); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
 .bar { display: flex; align-items: center; justify-content: space-between; height: 64px; gap: 12px; }
 .bar nav { display: flex; align-items: center; gap: 16px; }
 .bar nav a:not(.btn) { color: var(--ink); text-decoration: none; font-weight: 500; }
 .brand { text-decoration: none; color: var(--ink); display: flex; align-items: baseline; gap: 8px; }
 .brand-mark { font-family: var(--serif); font-size: 1.5rem; font-weight: 600; margin: 0; }
-.brand-sub { font-size: .75rem; letter-spacing: .14em; text-transform: uppercase; color: var(--gold); }
+.brand-sub { font-size: .75rem; letter-spacing: .14em; text-transform: uppercase; color: var(--accent-dark); }
 
-.hero { padding: 56px 0 32px; border-bottom: 1px solid var(--line); margin-bottom: 40px; background: linear-gradient(180deg, var(--gold-soft), var(--cream)); }
+.hero { padding: 56px 0 32px; border-bottom: 1px solid var(--line); margin-bottom: 40px; background: linear-gradient(180deg, var(--accent-soft), var(--cream)); }
 .hero h1 { max-width: 20ch; }
 .empty { padding: 48px 0; }
 
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 24px; margin-bottom: 56px; }
-.card { background: var(--paper); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.card {
+  position: relative; background: var(--paper); border: 1px solid var(--line); border-radius: 14px; overflow: hidden;
+  box-shadow: 0 2px 8px rgba(var(--shadow), .08);
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+.card:hover { transform: translateY(-6px); box-shadow: 0 14px 26px rgba(var(--shadow), .16); }
+.card img { transition: transform .35s ease; }
+.card:hover img { transform: scale(1.08); }
+.card:focus-within { box-shadow: 0 0 0 3px var(--accent), 0 14px 26px rgba(var(--shadow), .16); }
 .card-body { padding: 20px; }
 .card h2 { font-size: 1.25rem; margin: .4em 0; }
 .card h2 a { color: var(--ink); text-decoration: none; }
-.card h2 a:hover { color: var(--gold-dark); }
+.card h2 a::after { content: ''; position: absolute; inset: 0; } /* card inteiro clicável */
+.card h2 a:focus { outline: none; }
+.card h2 a:hover { color: var(--accent-dark); }
 .card p { margin: .4em 0; }
 
 .post { padding-top: 32px; padding-bottom: 56px; }
@@ -60,10 +72,10 @@ h3 { font-size: 1.25rem; margin-top: 1.8em; }
 .draft-flag { background: #FDECC8; border: 1px solid #E8B64C; padding: 6px 12px; border-radius: 8px; font-size: .8rem; font-weight: 600; display: inline-block; }
 .toc { background: var(--paper); border: 1px solid var(--line); border-radius: 12px; padding: 16px 20px; margin: 28px 0; }
 .toc ol { margin: .5em 0 0; padding-left: 1.2em; }
-.prose blockquote { margin: 1.5em 0; padding: 12px 20px; border-left: 3px solid var(--gold); background: var(--gold-soft); border-radius: 0 10px 10px 0; }
+.prose blockquote { margin: 1.5em 0; padding: 12px 20px; border-left: 3px solid var(--accent); background: var(--accent-soft); border-radius: 0 10px 10px 0; }
 .prose table { width: 100%; border-collapse: collapse; margin: 1.5em 0; font-size: .95rem; display: block; overflow-x: auto; }
 .prose th, .prose td { border-bottom: 1px solid var(--line); padding: 8px 10px; text-align: left; }
-.prose th { background: var(--gold-soft); }
+.prose th { background: var(--accent-soft); }
 .prose img { border-radius: 10px; }
 .faq details { background: var(--paper); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; margin-bottom: 10px; }
 .faq summary { font-weight: 600; cursor: pointer; }
@@ -79,3 +91,8 @@ h3 { font-size: 1.25rem; margin-top: 1.8em; }
 .prose figure { margin: 1.8em 0; }
 .prose figure img { width: 100%; }
 .prose figcaption { font-size: .85rem; color: var(--muted); margin-top: 8px; text-align: center; }
+
+@media (prefers-reduced-motion: reduce) {
+  .card, .card img, .btn { transition: none; }
+  .card:hover, .card:hover img { transform: none; }
+}
