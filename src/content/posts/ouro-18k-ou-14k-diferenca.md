@@ -149,7 +149,7 @@ Nos dois casos, vocês terão uma aliança de ouro verdadeiro, que não enferruj
 
 ## Uma opção ainda mais econômica: prata com ouro
 
-Se o orçamento está apertado, mas vocês querem o detalhe dourado, as alianças de **prata com ouro** combinam o corpo em prata com filetes de ouro. Elas custam bem menos que as de ouro maciço. Conheça as [alianças de prata com ouro](https://www.gerlujoias.com.br/aliancas-ouro-e-prata?utm_source=blog&utm_medium=referral&utm_campaign=blog-post&utm_content=ouro-18k-ou-14k-diferenca).
+Se o orçamento está apertado, mas vocês querem o detalhe dourado, as alianças de **prata com ouro** têm corpo em prata 950 com revestimento de ouro nas faixas douradas. Elas custam bem menos que as de ouro maciço. Conheça as [alianças de prata com ouro](https://www.gerlujoias.com.br/aliancas-ouro-e-prata?utm_source=blog&utm_medium=referral&utm_campaign=blog-post&utm_content=ouro-18k-ou-14k-diferenca).
 
 ## Perguntas frequentes
 

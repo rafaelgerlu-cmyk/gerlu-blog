@@ -119,7 +119,7 @@ Se o valor do modelo escolhido ficou acima do que vocês querem gastar, há cami
 - **Escolher o ouro 14k**, que tem menos ouro puro por grama e maior dureza
 - **Optar por um acabamento mais simples**, sem pedras ou detalhes trabalhados
 - **Trocar ouro usado**, aproveitando joias paradas em casa para abater o valor: veja [como trocar ouro velho por aliança](/trocar-ouro-velho-por-alianca/)
-- **Considerar as alianças de prata com ouro**, que combinam corpo em prata com aplicação de ouro maciço soldada
+- **Considerar as alianças de prata com ouro**, com corpo em prata 950 e revestimento de ouro nas faixas douradas: veja [o que é a aliança de prata com ouro](/alianca-de-prata-com-ouro/)
 
 ## Vale a pena esperar o ouro baixar para comprar?
 

@@ -1,78 +1,75 @@
 ---
 seoTitle: "Aliança de prata com ouro: o que é e como escolher"
 title: "Aliança de Prata com Ouro: O Que É e Como Escolher"
-description: "Aliança de prata com ouro: entenda o que é, por que não é banho nem semijoia, como é feita a aplicação de ouro soldada, como cuidar e para quem ela é indicada."
+description: "Aliança de prata com ouro: entenda o que é, a diferença para a semijoia, como funciona o revestimento de ouro, como cuidar e para quem ela é indicada."
 keyword: "aliança de prata com ouro"
 keywordsSecundarias: ["prata com ouro", "aliança de prata e ouro", "prata com ouro é semijoia", "aliança bicolor"]
 category: ouro-e-prata
 pubDate: 2026-09-21
 image: "/images/prata-com-ouro/capa-alianca-prata-com-ouro.jpg"
-imageAlt: "Par de alianças de prata com aplicação de ouro"
+imageAlt: "Par de alianças de prata com faixas de ouro"
 storePath: "/aliancas-ouro-e-prata"
 storeCta: "Ver alianças de prata com ouro"
-draft: true
+draft: false
 ---
 
-A aliança de prata com ouro é uma **aliança de prata com uma peça de ouro soldada por cima**. O ouro não é uma camada aplicada por banho: é uma aliança de ouro menor, fixada sobre o corpo de prata por solda.
+A aliança de prata com ouro é uma **aliança de prata 950 com revestimento de ouro** em parte da peça. O corpo da aliança é prata maciça, e o dourado que você vê é um revestimento de ouro aplicado sobre ele.
 
-Isso faz dela uma joia diferente de tudo que costuma ser confundido com ela. Não é folheado, não é banhado e não é semijoia. São dois metais de verdade, unidos numa peça só.
+O resultado é uma aliança bicolor: faixas prateadas e faixas douradas na mesma peça, com o visual do ouro por um investimento bem menor que o de uma aliança toda em ouro.
 
-Veja abaixo como ela é feita, a diferença para as peças com banho de ouro, como cuidar e para quem ela costuma ser a escolha certa.
+Veja abaixo como ela é feita, a diferença para a semijoia, como cuidar e para quem ela costuma ser a escolha certa.
 
 ## Como é feita a aliança de prata com ouro
 
-O processo tem duas etapas:
+A peça tem duas partes:
 
-1. **O corpo em prata** é produzido no tamanho e na largura escolhidos.
-2. **A aplicação de ouro**, que é uma peça de ouro maciço, é soldada sobre a prata.
+1. **O corpo em prata 950**, produzido no modelo, na largura e na numeração escolhidos. É prata maciça, não um metal comum.
+2. **O revestimento de ouro**, aplicado sobre as faixas que vão ficar douradas, em **ouro 14k ou 18k**, à sua escolha.
 
-O resultado é uma aliança com duas faixas visíveis: a prata e o ouro. Como a parte dourada é ouro maciço, e não uma camada superficial, ela **não sai com o uso**, não descasca e não precisa ser reaplicada.
+Por isso a aliança tem o desenho em duas cores: o prateado é a prata do corpo, e o dourado é a parte revestida.
 
 <figure>
-  <img src="/images/prata-com-ouro/detalhe-ouro-sobre-prata.webp" alt="Detalhe de um par de alianças de prata com a faixa de ouro aplicada sobre o corpo prateado" width="900" height="600" loading="lazy" decoding="async" />
-  <figcaption>De perto dá para ver a faixa de ouro com espessura própria sobre o corpo de prata, e a linha de união entre os dois metais.</figcaption>
+  <img src="/images/prata-com-ouro/detalhe-ouro-sobre-prata.webp" alt="Detalhe de um par de alianças de prata com faixas douradas no centro e bordas prateadas" width="900" height="600" loading="lazy" decoding="async" />
+  <figcaption>De perto dá para ver o desenho das faixas: o dourado é a parte revestida de ouro, e o prateado é a prata 950 do corpo.</figcaption>
 </figure>
 
-## Prata com ouro, banho de ouro, folheado e semijoia: qual a diferença
+## Prata com ouro é semijoia?
 
-Essa é a dúvida mais comum, e a diferença é grande:
+Não. A diferença está no **metal de base**, que é o que fica embaixo:
 
-| Tipo de peça | Como o ouro está na peça | O ouro sai com o tempo? |
+| Tipo de peça | Metal de base | Camada de ouro |
 |---|---|---|
-| **Prata com ouro** | Peça de ouro maciço soldada sobre a prata | Não |
-| **Banhado ou folheado** | Camada fina de ouro depositada sobre o metal | Sim, desgasta com o uso |
-| **Semijoia** | Camada de ouro sobre metal não nobre, como latão | Sim, desgasta com o uso |
+| **Prata com ouro** | Prata 950, metal nobre | Revestimento de ouro 14k ou 18k |
+| **Semijoia** | Metal comum, como latão | Camada de ouro |
+| **Folheado e bijuteria** | Metal comum | Camada fina de ouro |
 
-Em peças banhadas e folheadas, o ouro é uma **cobertura**, com espessura medida em microns. Ela se desgasta com o atrito do dia a dia e, quando sai, aparece o metal de baixo. Por isso essas peças precisam ser rebanhadas de tempos em tempos.
+Numa semijoia, por baixo do dourado existe um metal comum. Se a camada desgasta, aparece esse metal, que pode escurecer a pele e causar reação em quem tem sensibilidade.
 
-Na aliança de prata com ouro, o ouro é **parte da peça**. Ele tem espessura própria, pode ser polido e acompanha a aliança pela vida toda.
+Na aliança de prata com ouro, o que está por baixo é **prata 950**, o mesmo metal nobre de uma aliança de prata. A peça continua sendo uma joia de prata, com acabamento em ouro por cima.
 
-### Como identificar na hora de comprar
+### O que perguntar na hora de comprar
 
-- **Pergunte se o ouro é aplicado ou banhado.** É a pergunta mais direta e resolve a dúvida.
-- **Observe a peça de perto.** Numa aliança com ouro soldado, dá para ver a espessura do ouro e a linha de união entre os dois metais.
-- **Confira as marcações e a garantia.** Joias de metal nobre têm identificação e nota fiscal.
-- **Desconfie de "ouro" muito barato.** Peças anunciadas como ouro a preços muito abaixo do mercado costumam ser banhadas.
+- **Qual é o metal de base?** Prata 950 é joia. Latão e outros metais comuns são semijoia.
+- **O ouro é revestimento ou a peça é maciça?** São coisas diferentes e têm preços diferentes.
+- **Qual o teor do ouro usado?** Na Gerlu, o revestimento é em 14k ou 18k, você escolhe.
+- **Tem nota fiscal e garantia?** Joia de metal nobre sempre tem.
 
 ## Para quem a aliança de prata com ouro é indicada
 
 Ela costuma ser a escolha de quem:
 
 - **Gosta do contraste entre prateado e dourado**, em vez de uma aliança de um só tom
-- **Quer o ouro presente na aliança** com um investimento menor que o de uma peça toda em ouro
-- **Prefere uma aliança com mais presença visual**, já que o desenho em duas cores chama mais atenção que uma aliança lisa
-- **Busca uma joia de metais nobres** e não quer peças banhadas ou semijoias
-
-A aliança de prata com ouro é uma opção completa em si, não uma versão reduzida de outra coisa. A escolha entre ela, a prata e o ouro é sobre preferência de visual e de investimento.
+- **Quer o visual do ouro na aliança** com um investimento bem menor
+- **Prefere uma aliança com mais presença**, já que o desenho em duas cores chama mais atenção que uma peça lisa
+- **Quer uma joia de prata de verdade**, e não uma semijoia de metal comum
 
 ## Prata com ouro ou aliança de ouro: como decidir
 
-As duas são alianças de metal nobre e duram por muitos anos. As diferenças que pesam na decisão:
-
-- **Visual:** a de ouro tem um tom único; a de prata com ouro tem o contraste entre os dois metais
-- **Manutenção:** a prata escurece naturalmente com o tempo e pede limpeza de vez em quando; o ouro não escurece
-- **Investimento:** a aliança de prata com ouro usa menos ouro, e por isso custa menos que uma peça do mesmo tamanho toda em ouro
-- **Valor do metal:** o ouro guarda mais valor por grama, o que conta se vocês pensarem numa troca futura
+- **Investimento:** a de prata com ouro custa bem menos que uma aliança de ouro do mesmo tamanho
+- **Visual:** a de ouro tem um tom único; a de prata com ouro tem o contraste entre as duas cores
+- **Durabilidade do dourado:** no ouro maciço, a cor é do próprio metal e não muda. No revestimento, o dourado é uma camada e pode perder brilho com o tempo e com o atrito do uso diário
+- **Manutenção:** a prata escurece naturalmente e pede limpeza de vez em quando; o ouro não escurece
+- **Valor do metal:** o ouro guarda valor por grama, o que conta numa troca futura. A peça de prata com ouro é avaliada como prata
 
 <figure>
   <img src="/images/prata-com-ouro/prata-prata-com-ouro-e-ouro.webp" alt="Aliança de prata, aliança de prata com ouro e aliança de ouro lado a lado" width="1200" height="463" loading="lazy" decoding="async" />
@@ -83,27 +80,28 @@ Se a dúvida for sobre qual ouro escolher, veja [ouro 18k ou 14k](/ouro-18k-ou-1
 
 ## Como cuidar da aliança de prata com ouro
 
-A peça tem dois metais, e cada um se comporta de um jeito. O ouro mantém a cor. A prata escurece com o tempo, pelo contato com o ar, com o suor e com alguns produtos. Isso é natural e não tem relação com a qualidade da aliança.
+A peça junta prata e um revestimento de ouro, e os dois pedem o mesmo cuidado: evitar atrito forte e produtos químicos. A prata escurece com o tempo pelo contato com o ar, com o suor e com alguns produtos. Isso é natural e se resolve com limpeza.
 
-Para manter o brilho:
+Para a aliança durar bonita por muito mais tempo:
 
 - **Tire a aliança** para entrar na piscina ou no mar, lavar louça e usar produtos de limpeza
 - **Coloque perfume e creme antes** de pôr a aliança, nunca depois
-- **Guarde em saquinho ou caixinha**, longe da umidade, quando não estiver usando
-- **Limpe com flanela própria para prata** quando notar o brilho diminuir
-- **Leve à joalheria** para uma limpeza completa quando a peça escurecer mais
+- **Evite atrito**, como usar outros anéis que raspem na peça ou trabalhar pesado com as mãos sem tirar
+- **Guarde em saquinho ou caixinha**, longe da umidade
+- **Limpe com flanela macia**, sem produtos abrasivos e sem pasta de limpar prata nas partes douradas
+- **Leve à joalheria** quando a peça escurecer mais, em vez de tentar recuperar em casa
 
-Um detalhe importante: alguns produtos caseiros para limpar prata são abrasivos e podem marcar a superfície. Se a aliança tiver acabamento fosco ou detalhes trabalhados, o melhor caminho é a limpeza na joalheria.
+Esse último ponto é importante: produtos caseiros para limpar prata são abrasivos e podem desgastar o revestimento de ouro. Na dúvida, a limpeza na joalheria é o caminho seguro.
 
 ## Como escolher o modelo
 
 ### Largura e proporção
 
-A proporção entre a prata e o ouro muda bastante o visual. Uma faixa de ouro estreita sobre uma aliança larga dá um efeito discreto. Uma aplicação mais larga deixa o dourado em evidência.
+A proporção entre prata e ouro muda bastante o visual. Uma faixa dourada estreita dá um efeito discreto. Uma faixa larga deixa o dourado em evidência. Na Gerlu, os modelos vão de 2 a 6 mm.
 
 ### Acabamento
 
-Alianças polidas têm brilho espelhado. Acabamentos foscos ou escovados criam contraste com o ouro polido, o que realça a diferença entre os dois metais.
+Alianças polidas têm brilho espelhado. Acabamentos foscos, escovados ou diamantados criam contraste com a parte dourada e disfarçam melhor as marquinhas do uso.
 
 ### O par do casal
 
@@ -117,19 +115,23 @@ Veja como descobrir a numeração em casa em [como saber o tamanho da aliança](
 
 ### A aliança de prata com ouro é semijoia?
 
-Não. Semijoias têm uma camada de ouro sobre metal não nobre. Aqui, o corpo é de prata e o ouro é uma peça maciça soldada sobre ela: dois metais nobres numa joia só.
+Não. Semijoia tem metal comum por baixo, como latão. Aqui o corpo é de **prata 950**, metal nobre, com revestimento de ouro por cima.
 
-### O ouro sai com o tempo?
+### O dourado sai com o tempo?
 
-Não. Como é uma peça soldada, e não uma camada de banho, o ouro acompanha a aliança. O que pode acontecer é a prata escurecer, e isso se resolve com limpeza.
+O revestimento é uma camada de ouro sobre a prata e, como toda camada, sofre com o atrito do uso diário. Com os cuidados certos, ele dura bastante. Se o dourado perder brilho, converse com a joalheria sobre a manutenção da peça.
 
 ### Por que a prata escurece?
 
 Pelo contato com o ar, com o suor e com alguns produtos químicos. É uma reação natural do metal, que acontece em qualquer joia de prata. Uma limpeza devolve o brilho.
 
+### Qual é o teor do ouro do revestimento?
+
+Na Gerlu, você escolhe entre **ouro 14k e ouro 18k** no momento da compra.
+
 ### Dá para usar no dia a dia?
 
-Dá. É uma aliança de uso diário, como qualquer outra. Vale seguir os mesmos cuidados: tirar para piscina, mar e produtos de limpeza.
+Dá. É uma aliança de uso diário. Para o dourado durar mais, vale tirar a peça para piscina, mar, produtos de limpeza e trabalhos pesados com as mãos.
 
 ### Posso gravar nomes e data?
 
@@ -137,14 +139,14 @@ Pode. A gravação é feita na parte interna, na prata, como em qualquer alianç
 
 ### Serve como aliança de casamento?
 
-Serve. Muitos casais escolhem a prata com ouro como aliança de casamento, pelo visual em duas cores. Outros usam no noivado e trocam pelo ouro no casamento. A decisão é do casal.
+Serve. Muitos casais escolhem a prata com ouro como aliança de casamento, pelo visual em duas cores e pelo investimento. Outros usam no noivado e trocam pelo ouro no casamento. A decisão é do casal.
 
 ## Alianças de prata com ouro na Gerlu Joalheria
 
-Há 35 anos em Betim, a Gerlu trabalha com alianças de prata com ouro, prata e ouro 18k e 14k. Na loja, você compara os modelos lado a lado, vê de perto como a aplicação de ouro é feita e escolhe com a nossa equipe o que combina com o que vocês procuram.
+Há 35 anos em Betim, a Gerlu trabalha com alianças de prata com ouro, prata e ouro 18k e 14k. Na loja, você compara as três linhas lado a lado, vê a diferença de perto e escolhe com a nossa equipe o que combina com o que vocês procuram.
 
 **Endereço:** Rua Santa Cruz, 402, sala 909, Centro, Betim/MG
 
 **[Fale com a Gerlu pelo WhatsApp: (31) 99730-8292](https://wa.me/5531997308292)**
 
-Veja os modelos de [alianças de prata com ouro](https://www.gerlujoias.com.br/aliancas-ouro-e-prata?utm_source=blog&utm_medium=referral&utm_campaign=blog-post&utm_content=alianca-de-prata-com-ouro) e de [alianças de casamento em ouro](https://www.gerlujoias.com.br/casamento?utm_source=blog&utm_medium=referral&utm_campaign=blog-post&utm_content=alianca-de-prata-com-ouro).
+Veja os modelos de [alianças de prata com ouro](https://www.gerlujoias.com.br/aliancas-ouro-e-prata) e de [alianças de casamento em ouro](https://www.gerlujoias.com.br/casamento).
