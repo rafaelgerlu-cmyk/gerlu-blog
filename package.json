@@ -6,7 +6,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "novo-post": "node scripts/novo-post.mjs"
+    "novo-post": "node scripts/novo-post.mjs",
+    "validar": "node scripts/validar-posts.mjs"
   },
   "license": "ISC",
   "dependencies": {

@@ -52,6 +52,7 @@ A URL do post é o nome do arquivo — sem data, sem ID. Arquivos começando com
 | `npm install` | instala dependências (primeira vez) |
 | `npm run dev` | abre em http://localhost:4321 (mostra rascunhos) |
 | `npm run build` | gera o site em `dist/` e valida o SEO |
+| `npm run validar` | confere as regras de SEO dos posts sem rodar o build |
 | `npm run novo-post "slug"` | cria post a partir do modelo |
 
 Textos fixos (nome, descrição, URL da loja): `src/consts.ts`. Cores e fontes: `src/styles/global.css`.
